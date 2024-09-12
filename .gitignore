@@ -35,4 +35,3 @@ yarn-error.*
 # typescript
 *.tsbuildinfo
 App old.js
-app.json
